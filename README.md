@@ -20,7 +20,6 @@ OR
 OR
 ```npm run cypress:run```
 
-## Test Cases
-![alt text](https://github.com/cheongsy/cypress_tests_poll_voting/blob/main/home-page-test-cases.jpg)
-![alt text](https://github.com/cheongsy/cypress_tests_poll_voting/blob/main/results-test-cases.jpg)
-![alt text](https://github.com/cheongsy/cypress_tests_poll_voting/blob/main/voting-test-cases.jpg)
+## Test Execution - Video Run
+![alt text](https://github.com/cheongsy/cimb_cypress_tests/tree/main/cypress/videos/cimb-MY/deals.feature.mp4)
+![alt text](https://github.com/cheongsy/cimb_cypress_tests/tree/main/cypress/videos/cimb-SG/tools.feature.mp4)
