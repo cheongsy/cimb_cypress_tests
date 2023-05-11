@@ -26,4 +26,4 @@ OR
 2. ![tools.feature.mp4](https://github.com/cheongsy/cimb_cypress_tests/tree/main/cypress/videos/cimb-SG/tools.feature.mp4)
 
 ## Test Report
-1. ![alt text](https://github.com/cheongsy/cimb_cypress_tests/test-report.jpg)
+![alt text](https://github.com/cheongsy/cimb_cypress_tests/blob/main/test-report.jpg)
