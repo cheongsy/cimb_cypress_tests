@@ -24,3 +24,6 @@ OR
 ## Test Execution - Video Run
 1. ![deals.feature.mp4](https://github.com/cheongsy/cimb_cypress_tests/tree/main/cypress/videos/cimb-MY/deals.feature.mp4)
 2. ![tools.feature.mp4](https://github.com/cheongsy/cimb_cypress_tests/tree/main/cypress/videos/cimb-SG/tools.feature.mp4)
+
+## Test Report
+1. ![test report.jpg](https://github.com/cheongsy/cimb_cypress_tests/test%20report.jpg)
