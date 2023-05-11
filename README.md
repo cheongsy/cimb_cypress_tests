@@ -1,4 +1,4 @@
-# cypress_tests_poll_voting
+# cimb_cypress_tests
 
 ## Pre-requisites
 1. Install Node.js. Check the option to install the necessary tools which includes Chocolatey, python package, etc.
