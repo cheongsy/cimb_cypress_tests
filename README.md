@@ -1,7 +1,8 @@
 # cimb_cypress_tests
 
 ## Pre-requisites
-1. Install Node.js. Check the option to install the necessary tools which includes Chocolatey, python package, etc.
+1. Install Node.js. 
+
 
 ## How to run tests
 1. Navigate to the project path. (E.g. C:\MyGitRepositories\cimb_cypress_tests)
