@@ -21,5 +21,5 @@ OR
 ```npm run cypress:run```
 
 ## Test Execution - Video Run
-![deals.feature.mp4](https://github.com/cheongsy/cimb_cypress_tests/tree/main/cypress/videos/cimb-MY/deals.feature.mp4)
-![tools.feature.mp4](https://github.com/cheongsy/cimb_cypress_tests/tree/main/cypress/videos/cimb-SG/tools.feature.mp4)
+1. ![deals.feature.mp4](https://github.com/cheongsy/cimb_cypress_tests/tree/main/cypress/videos/cimb-MY/deals.feature.mp4)
+2. ![tools.feature.mp4](https://github.com/cheongsy/cimb_cypress_tests/tree/main/cypress/videos/cimb-SG/tools.feature.mp4)
